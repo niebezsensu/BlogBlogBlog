@@ -1,0 +1,22 @@
+{
+  "name": "blogblogblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niebezsensu/BlogBlogBlog.git"
+  },
+  "author": "Asia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niebezsensu/BlogBlogBlog/issues"
+  },
+  "homepage": "https://github.com/niebezsensu/BlogBlogBlog#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
