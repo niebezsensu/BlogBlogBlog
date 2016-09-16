@@ -1,0 +1,11 @@
+1. Hello world
+2. Statyczna strona główna
+	2.1. Html template (html, head, body, title, metatags itd.)
+	2.2. Główny plik css (umiejscowienie w strukturze projektu i załączenie w html templacie)
+	2.3. Główny plik js (umiejscowienie w strukturze projektu i załączenie w html templacie)
+	2.4. Górna belka (sticky i link do drugiej strony)
+	2.5. 3 zdjęcia ładnie gdzieś tam w body jakichś kotów losowych
+3. Uzupełnić stronę danymi
+	3.1. Konfiguracja MongoDb i uzupełnienie danymi (nazwy w bd, zdjęcia w folderze img)
+	3.2. Napisać moduł node js, który pobiera wszystkie zdjęcia po nazwach z MongoDb
+	3.3. Przekazać dane pobrane z bd do widoku
